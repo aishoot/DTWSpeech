@@ -1,4 +1,6 @@
 # Voice Command Recognition
+It is a wonderful speech recognition demo for you to build a real artificial intelligence system like "Her"(a movie) or "Jarvis"(in *Iron Man*). (Give to a person with the same ***AI*** dream as me)
+
 
 ## File description
 
