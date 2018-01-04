@@ -3,6 +3,8 @@ It is a wonderful speech recognition demo if you have the same **AI** dream as m
 
 ## File description
 * unittest: python framework "unittest" learning
+  run the file "run.py" with python3
+  sfddf
 
 
 ## References
