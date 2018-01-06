@@ -14,3 +14,5 @@ It is a wonderful speech recognition demo if you have the same **AI** dream as m
 * http://www.cnblogs.com/chuxiuhong/p/6124459.html
 * https://www.cnblogs.com/51kata/p/5887940.html
 
+
+*More codes will be uploaded soon!*
