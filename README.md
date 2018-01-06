@@ -3,7 +3,7 @@ It is a wonderful speech recognition demo if you have the same **AI** dream as m
 
 ## File description
 * unittest: python framework "unittest" learning. Run the file "run.py" with python3.
-* sounds: sound files we need to handle
+* sounds: sound files we need to process
 
 
 ## References
