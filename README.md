@@ -1,5 +1,5 @@
-# Voice Command Recognition
-It is a wonderful speech recognition demo if you have the same **AI** dream as me and want to build a real artificial intelligence system like "Her"(a movie) or "Jarvis"(in *Iron Man*).
+# DTW applied to speech recognition
+DTW: Dynamic Time Warping Algorithm
 
 ## File description
 * unittest: python framework "unittest" learning. Run the file "run.py" with python3.
