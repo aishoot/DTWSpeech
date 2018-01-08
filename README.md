@@ -5,7 +5,8 @@ DTW: Dynamic Time Warping Algorithm
 * unittest: python framework "unittest" learning. Run the file "run.py" with python3.
 * sounds: sound files we need to process
 * wavToTag.txt: 245 French words
-* main.py: a simple voice command recognition demo using DTW. 
+* VoiceCommand.py: a simple voice command recognition demo using DTW. 
+* dtw.py: implementation of DTW algorithm
 
 
 ## References
