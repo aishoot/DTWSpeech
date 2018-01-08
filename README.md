@@ -16,8 +16,8 @@ DTW: Dynamic Time Warping Algorithm
   * speech_recognition.ipynb: simple speech recognition system can be implemented using DTW + MFCC.
   * DTW_MFCC_KNN.ipynb: simple speech recognition using DTW, MFCC, and kNN (k-NearestNeighbor)
 ## Requirements
-* [Anaconda3 (Python3)](https://www.anaconda.com/download)
-* [Librosa](http://librosa.github.io/librosa)    
+1. [Anaconda3 (Python3)](https://www.anaconda.com/download)
+2. [Librosa](http://librosa.github.io/librosa)    
 '''python
 pip install librosa
 '''
