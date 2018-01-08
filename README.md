@@ -4,7 +4,7 @@
 
 ## File description
 * Folders
-  * unittest: python framework "unittest" learning. Run the file "run.py" with python3.
+  * unittest: python framework "unittest" learning. Run the file "run.py" with Python3.
   * sounds: sound files of "MFCC_DTW.ipynb".
   * train: train sample audios of "DTW_MFCC_KNN.ipynb".
   * test: test sample audio of "DTW_MFCC_KNN.ipynb".
