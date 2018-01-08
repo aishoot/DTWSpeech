@@ -7,6 +7,9 @@ DTW: Dynamic Time Warping Algorithm
 * wavToTag.txt: 245 French words
 * VoiceCommand.py: a simple voice command recognition demo using DTW. 
 * dtw.py: implementation of DTW algorithm
+* DTW_simple_example.ipynb: DTW simple example
+* MFCC_DTW.ipynb: compare the MFCCs of two sounds using DTW
+* speech_recognition.ipynb: simple speech recognition system can be implemented using DTW + MFCC. 
 
 
 ## References
