@@ -1,5 +1,5 @@
 # DTW applied to isolate word speech recognition
-DTW: Dynamic Time Warping Algorithm  
+DTW: Dynamic Time Warping Algorithm<br><br>
 ![](/speech.jpg)
 
 ## File description
