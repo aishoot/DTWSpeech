@@ -18,7 +18,8 @@
   * DTW_MFCC_KNN.ipynb: simple speech recognition using DTW, MFCC, and kNN (k-NearestNeighbor)
 ## Requirements
 * [Anaconda3 (Python3)](https://www.anaconda.com/download)
-* [Librosa](http://librosa.github.io/librosa): `Install: pip install librosa`
+* [Librosa](http://librosa.github.io/librosa):<br>
+`Install: pip install librosa`
 
 ## References
 * https://github.com/pierre-rouanet/dtw
