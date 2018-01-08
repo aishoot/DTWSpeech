@@ -3,13 +3,17 @@ DTW: Dynamic Time Warping Algorithm
 
 ## File description
 * unittest: python framework "unittest" learning. Run the file "run.py" with python3.
-* sounds: sound files we need to process.
+* sounds: sound files of "MFCC_DTW.ipynb".
+* train: train sample audios of "DTW_MFCC_KNN.ipynb".
+* test: test sample audio of "DTW_MFCC_KNN.ipynb".
+------
 * wavToTag.txt: 245 French words.
 * VoiceCommand.py: a simple voice command recognition demo using DTW. 
 * dtw.py: implementation of DTW algorithm.
 * DTW_simple_example.ipynb: DTW simple example.
 * MFCC_DTW.ipynb: compare the MFCCs of two sounds using DTW.
-* speech_recognition.ipynb: simple speech recognition system can be implemented using DTW + MFCC. 
+* speech_recognition.ipynb: simple speech recognition system can be implemented using DTW + MFCC.
+* DTW_MFCC_KNN.ipynb: simple speech recognition using DTW, MFCC, and kNN (k-NearestNeighbor)
 
 
 ## References
