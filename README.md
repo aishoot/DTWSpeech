@@ -1,4 +1,4 @@
-# DTW applied to speech recognition
+# DTW applied to isolate word speech recognition
 DTW: Dynamic Time Warping Algorithm
 
 ## File description
