@@ -18,9 +18,7 @@ DTW: Dynamic Time Warping Algorithm
 ## Requirements
 1. [Anaconda3 (Python3)](https://www.anaconda.com/download)
 2. [Librosa](http://librosa.github.io/librosa)    
-'''python
-pip install librosa
-'''
+   pip install librosa
 
 ## References
 * https://github.com/pierre-rouanet/dtw
