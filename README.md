@@ -20,6 +20,3 @@ DTW: Dynamic Time Warping Algorithm
 * https://github.com/slaypni/fastdtw
 * http://www.cnblogs.com/chuxiuhong/p/6124459.html
 * https://www.cnblogs.com/51kata/p/5887940.html
-
-
-*More codes will be uploaded soon!*
