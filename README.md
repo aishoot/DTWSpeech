@@ -23,7 +23,7 @@
 * [Anaconda3 (Python3)](https://www.anaconda.com/download)
 * [Librosa](http://librosa.github.io/librosa): `pip install librosa`
 
-## Learning Websites & Code Source
+## References & Code source
 * https://github.com/pierre-rouanet/dtw
 * https://github.com/slaypni/fastdtw
 * https://github.com/psbots/dtwSpeechRecognition
