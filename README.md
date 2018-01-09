@@ -20,6 +20,7 @@
 ## Requirements
 * [Anaconda3 (Python3)](https://www.anaconda.com/download)
 * [Librosa](http://librosa.github.io/librosa): `pip install librosa`
+* [PyAudio](http://people.csail.mit.edu/hubert/pyaudio/)
 
 ## References
 * https://github.com/pierre-rouanet/dtw
