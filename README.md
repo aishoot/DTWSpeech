@@ -11,6 +11,7 @@
 * Files
   * wavToTag.txt: 245 French words.
   * dtw.py: implementation of DTW algorithm.
+  * dtwTest.py: test of DTW algorithm.
   * VoiceCommand.py: a simple voice command recognition demo using DTW. 
   * DTW_simple_example.ipynb: DTW simple example.
   * MFCC_DTW.ipynb: compare the MFCCs of two sounds using DTW.
