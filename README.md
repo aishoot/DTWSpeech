@@ -20,7 +20,7 @@
 
 ## Requirements
 * [PyAudio](http://people.csail.mit.edu/hubert/pyaudio/)
-* [Anaconda3 (Python3)](https://www.anaconda.com/download)
+* [Anaconda3 (Python3.5+)](https://www.anaconda.com/download)
 * [Librosa](http://librosa.github.io/librosa): `pip install librosa`
 
 ## References & Code source
