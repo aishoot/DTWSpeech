@@ -1,4 +1,5 @@
 # DTW\* applied to isolate word speech recognition
+[![Run on Repl.it](https://repl.it/badge/github/pchao6/DTWSpeech)](https://repl.it/github/pchao6/DTWSpeech)
 *\*DTW: Dynamic Time Warping*<br><br>
 ![](/speech2.jpg)
 
@@ -32,4 +33,3 @@
 * http://blog.csdn.net/zouxy09/article/details/9140207
 * http://www.cnblogs.com/chuxiuhong/p/6124459.html
 * https://www.cnblogs.com/51kata/p/5887940.html
-[![Run on Repl.it](https://repl.it/badge/github/pchao6/DTWSpeech)](https://repl.it/github/pchao6/DTWSpeech)
